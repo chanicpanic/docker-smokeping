@@ -27,6 +27,7 @@ RUN \
 	bind-tools \
 	font-noto-cjk \
 	openssh-client \
+	perl-authen-radius \
 	smokeping==${SMOKEPING_VERSION} \
 	ssmtp \
 	sudo \
